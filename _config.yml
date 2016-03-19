@@ -6,7 +6,7 @@ description: Technology, big data, machine learning, algorithms and more.
 logo: #nologo
 search: true
 comments: true
-url: http://localhost:4000
+url: http://thaibui.github.io
 
 # Jekyll configuration
 
@@ -58,7 +58,7 @@ owner:
   linkedin: thaibuii
   google:
     plus: #username
-    analytics:
+    analytics: UA-75323672-1
     verify:
     ad-client:
     ad-slot:
