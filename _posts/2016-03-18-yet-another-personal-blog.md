@@ -4,7 +4,7 @@ title: "Yet, Another Personal Blog"
 modified:
 categories: posts
 excerpt:
-tags: [setup, misc, blog]
+tags: [setup, tool, beginning]
 image:
 feature:
 date: 2016-03-18T15:39:55-04:00
@@ -25,31 +25,31 @@ I have never blogged before, nor have I ever set up a personal blog so creating
 this blog is very exciting. I knew that I would want to use [Github
 Pages](https://pages.github.com/) since it is a simple and free web hosting
 service by Github, plus you get to write the blog in
-[Markdown](http://markdownlivepreview.com/). The idea of having your blog as a
-Github project is just convenient and attractive. It allows you to edit your
-posts in a terminal, in your favorite IDEs or directly from your phones using
-Github's already remarkable web interface.
+[Markdown](http://markdownlivepreview.com/). 
 
-As satisfied as I am with Github's hosting service and its many options for
-editing, I still need to find a tool to help me create all the web pages and
-manage the features that a blog would normally have such as tagging,
-commenting, theming and personalizing. For that, the default funciontalities of
-Gihub Pages are just too lacking so I needed something a bit more advanced.
-Luckily, Github Pages uses a quite sofisticated tool called
-[Jekyll](https://jekyllrb.com/) under the hood to render Markdown content into
-HTML, and there goes my journey to install and learn all of the great things (or
-not) about Jekyll.
+The idea of having your blog as a Github project is just convenient and
+attractive. It allows you to edit your posts in a terminal, in your favorite
+IDEs or directly from your phones using Github's familiar web
+interface.
+
+Still, I need to find a tool to help me create all the web pages and manage the
+features that a blog would normally have such as tagging, commenting, theming
+and personalizing. For that, the default functionalities of Github Pages are just
+too lacking so I needed something a bit more advanced.  Luckily, Github Pages
+uses a quite sophisticated tool called [Jekyll](https://jekyllrb.com/) under the
+hood to render Markdown content into HTML. There goes my journey to install
+and learn all about Jekyll.
 
 ### Learning a new tool
 
 First off, I'm impressed with how easy it is to jump start a blog using Jekyll.
-I've created this blog in under a day or two from the moment I
-looked at Jekyll to the moment I've published the initial [draft] [first_post]
-online. That includes setting up Jekyll locally, finding a theme I [like]
-[so_simple_theme], customizing the theme to my [tastes] [design_seeds], creating
-a custom [homepage layout] [homepage_layout], configuring Disqus, Google
-Analytics, verifing website ownership to Google search engine and oh, so much 
-more. Jekyll + the theme I chose really makes things easy. 
+I created this blog in under a day or two from the moment I've
+looked at Jekyll to the moment the first initial [draft] [first_post]
+was published. That includes setting up Jekyll locally, finding a theme I [like]
+[so_simple_theme], customizing the colors to my [tastes] [design_seeds], making
+the latest post to always be on the [homepage] [homepage_layout], configuring
+Disqus, Google Analytics, verifying website ownership to the search engine and
+so much more. Jekyll + the theme I chose really makes things easy. 
 
 Though, I have to admit that I've had help from my girlfriend who made the
 awesome [favicon] [favicon] for this blog using her phone. Yes, you are reading it
@@ -62,4 +62,14 @@ while I was wrangling with Inkscape and the likes.
 [homepage_layout]: https://github.com/thaibui/thaibui.github.io/blob/master/_layouts/homepage.html
 [favicon]: https://github.com/thaibui/thaibui.github.io/blob/master/images/apple-touch-icon-72x72-precomposed.png 
 
-### Theming
+### Starting a new thing
+
+I started this blog because I miss writing a lot. Despite being able to write
+code every day, I don't get many opportunities to write down things that need a
+story. Coding just doesn't have the same invigorating feelings as crafting a
+nice story does. 
+
+I also wanted to use this blog as a place to share ideas. I think good ideas
+only come ever so often, but without sharing, you'll never know if they are
+actually good. It's such a waste to throw away good ideas, so even if most of
+them are useless I will try to spit them all out. Perhaps, once a week, I hope.
