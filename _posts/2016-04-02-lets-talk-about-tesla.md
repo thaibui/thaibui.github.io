@@ -55,6 +55,14 @@ fuel. Using fossil fuel to produce power is still the cheapest way to make
 electricity. So unless Tesla is chaging that equation, the company is still not
 using sustainable energy.
 
-You may say: but at least Tesla's cars are not burning fossil fuel, it helps
-reduce CO
+At least Tesla's cars are not burning fossil fuel, it helps reduce \\( CO_2 \\) consumption.
+But how much will the entire world benefit from using only electric cars? And
+where will the gas that the cars would normally consume be used for?
+
+Given that if all cars are electric, there will be no market for gasoline. The
+fossil fuel used to make gasoline will be used for something else. Could that
+something else be the electricity that Tesla cars consume? At the end of the
+day, if the economics of the fossil fuel could turn against all the hard work that
+Tesla is striving for, where is the sustainability in a the Tesla model then.
+
 
