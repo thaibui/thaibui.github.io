@@ -45,6 +45,11 @@ would love to have one. Though, I don't know if I will ever have one. I am not a
 proponent or opponent of any party or organization. I am just a random person on
 the Internet with a personal view.
 
+Elon Musk himself has explained about this topic in a blog post
+[here](https://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
+. I recommend you read it first to have a little bit more background
+information.
+
 ### Sustainable energy sources
 
 Solar power is one of the most sustainable energy sources and perhaps nuclear
@@ -55,14 +60,21 @@ fuel. Using fossil fuel to produce power is still the cheapest way to make
 electricity. So unless Tesla is chaging that equation, the company is still not
 using sustainable energy.
 
-At least Tesla's cars are not burning fossil fuel, it helps reduce \\( CO_2 \\) consumption.
-But how much will the entire world benefit from using only electric cars? And
-where will the gas that the cars would normally consume be used for?
+Musk also has admitted this in his blog post. He did brought up a good comparision
+of electric cars consuming indirect fossil fuels via the power gird and the
+normal casrs that burns gasoline directly from the combusion engine. The conclusion
+is that the combusion engine will produce more C02 than electric cars. 
 
-Given that if all cars are electric, there will be no market for gasoline. The
-fossil fuel used to make gasoline will be used for something else. Could that
-something else be the electricity that Tesla cars consume? At the end of the
-day, if the economics of the fossil fuel could turn against all the hard work that
-Tesla is striving for, where is the sustainability in a the Tesla model then.
+Another good argument that Musk has explained is that if you buy Tesla cars with
+solar panels and you only drive less than, says, 50 miles a day, you could
+become *energy possitive*. Meaning you produce more power than you actually
+consume. 
 
+While all of his arguments are very compeling, I think it misses a very
+important factor which is the economy behind buying and using solar panels. The
+sad fact is that solar based electricity is more expensive than using fossil
+fuel ones. Not until the cost of operating and having solar panels is cheaper
+than drawing electricity directly from the grid, the general public won't change
+the way they consume electricity.
 
+### Infrastructure for solar electric power
