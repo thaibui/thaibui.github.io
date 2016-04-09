@@ -43,7 +43,7 @@ Jekyll.
 
 ### Learning a new tool
 
-First off, I'm impressed with how easy it is to jump start a blog using Jekyll.
+First off, I'm impressed with how easy it is to jump-start a blog using Jekyll.
 I created this blog in under a day or two from the moment I've
 looked at Jekyll to the moment the first initial [draft] [first_post]{:target="_blank"}
 was published. That includes setting up Jekyll locally, finding a theme I [like]
