@@ -23,9 +23,9 @@ wanted this.
 
 I have never blogged before, nor have I ever set up a personal blog so creating
 this blog is very exciting. I knew that I would want to use [Github
-Pages](https://pages.github.com/) since it is a simple and free web hosting
-service by Github, plus you get to write the blog in
-[Markdown](http://markdownlivepreview.com/). 
+Pages](https://pages.github.com/){:target="_blank"} since it is a simple and
+free web hosting service by Github, plus you get to write the blog in
+[Markdown](http://markdownlivepreview.com/){:target="_blank"}. 
 
 The idea of having your blog as a Github project is just convenient and
 attractive. It allows you to edit your posts in a terminal, in your favorite
@@ -36,25 +36,27 @@ Still, I need to find a tool to help me create all the web pages and manage the
 features that a blog would normally have such as tagging, commenting, theming
 and personalizing. For that, the default functionalities of Github Pages are just
 too lacking so I needed something a bit more advanced.  Luckily, Github Pages
-uses a quite sophisticated tool called [Jekyll](https://jekyllrb.com/) under the
-hood to render Markdown content into HTML. There goes my journey to install
-and learn all about Jekyll.
+uses a quite sophisticated tool called
+[Jekyll](https://jekyllrb.com/){:target="_blank"} under the hood to render
+Markdown content into HTML. There goes my journey to install and learn all about
+Jekyll.
 
 ### Learning a new tool
 
 First off, I'm impressed with how easy it is to jump start a blog using Jekyll.
 I created this blog in under a day or two from the moment I've
-looked at Jekyll to the moment the first initial [draft] [first_post]
+looked at Jekyll to the moment the first initial [draft] [first_post]{:target="_blank"}
 was published. That includes setting up Jekyll locally, finding a theme I [like]
-[so_simple_theme], customizing the colors to my [tastes] [design_seeds], making
-the latest post to always be on the [homepage] [homepage_layout], configuring
-Disqus, Google Analytics, verifying website ownership to the search engine and
-so much more. Jekyll + the theme I chose really makes things easy. 
+[so_simple_theme]{:target="_blank"}, customizing the colors to my [tastes]
+[design_seeds]{:target="_blank"}, making the latest post to always be on the
+[homepage] [homepage_layout]{:target="_blank"}, configuring Disqus, Google
+Analytics, verifying website ownership to the search engine and so much more.
+Jekyll + the theme I chose really makes things easy. 
 
 Though, I have to admit that I've had help from my girlfriend who made the
-awesome [favicon] [favicon] for this blog using her phone. Yes, you are reading it
-correctly, from her phone! She was super fast too, having it done in 10 minutes
-while I was wrangling with Inkscape and the likes.
+awesome [favicon] [favicon]{:target="_blank"} for this blog using her phone.
+Yes, you are reading it correctly, from her phone! She was super fast too,
+having it done in 10 minutes while I was wrangling with Inkscape and the likes.
 
 [first_post]: https://github.com/thaibui/thaibui.github.io/blob/2b6ac2f69f309dc75849d62fc265b9dd0e043dad/_posts/2016-03-18-yet-another-personal-blog.md
 [so_simple_theme]: https://mademistakes.com/work/so-simple-jekyll-theme/
