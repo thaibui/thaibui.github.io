@@ -10,7 +10,8 @@ feature:
 date: 2016-04-30T15:59:02-07:00
 ---
 
-# I rarely finish my side projects
+# If you couldn't finish it, publish it!
+
 I started developing a web-based, HTML5 and Javascript game in 2011. At
 that time, I fantasized about making it a multi-player game via WebRTC. I wanted
 to make it a massively fun and competitive game. It was gonna a be a blast. The
