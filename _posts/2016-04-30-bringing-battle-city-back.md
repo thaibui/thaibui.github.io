@@ -14,7 +14,7 @@ date: 2016-04-30T15:59:02-07:00
 
 I started developing a web-based, HTML5 and Javascript game in 2011. At
 that time, I fantasized about making it a multi-player game via WebRTC. I wanted
-to make it a massively fun and competitive game. It was gonna a be a blast. The
+to make it a massively fun and competitive game. It was gonna be a blast. The
 project went strongly for 2 weeks and then I left it there rotting for 5 years!
 
 Today, I wanted to revive the project. It was so much fun developing the game, I
