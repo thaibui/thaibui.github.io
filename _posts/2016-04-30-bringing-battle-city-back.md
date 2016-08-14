@@ -35,9 +35,9 @@ edited the tank pixel by pixel based on a reference image I found on the interne
 The bullet and the bricks were also a recreation from some of the reference images
 I found. They look better than the original, I think.
 
-I created the game from scratch. I used only what was available in Javascript and
-HTML5 because I wanted it to run on multiple platforms. I was too ambitious and
-it's probably why the game was never finished. Luckily, it is playable.
+The game was created from scratch using only what was available in Javascript and
+HTML5. I wanted it to run on multiple platforms. The game was a big ambitious
+project and it's probably why the game was never finished. Luckily, it is playable.
 
 I was also reading the book [High Performance
 JavaScript](http://shop.oreilly.com/product/9780596802806.do) at that time. I
