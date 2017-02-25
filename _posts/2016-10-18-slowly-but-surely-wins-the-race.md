@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Slow but sure wins the race"
+title: "Slowly but surely wins the race"
 modified:
 categories: posts
 excerpt:
