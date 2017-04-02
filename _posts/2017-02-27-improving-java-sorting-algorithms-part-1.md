@@ -243,7 +243,7 @@ Why would anyone wants to improve something that is already quite good, right?
 
 You are absolutely right and you should stop reading my blog.
 
-I tried, anyway, and failed misserably at beating Java 7 Timsort
+I tried, anyway, and failed miserably at beating Java 7 Timsort
 [Arrays.sort(Object[])](https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html#sort(java.lang.Object[])).
 It is not easy. Timsort is a well-tested, well-battled hybrid sort model of a
 mergesort and insertion sort algorithm. It works by identifying *runs* that are
