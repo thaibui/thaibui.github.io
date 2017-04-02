@@ -278,5 +278,6 @@ This could also mean that my first attempt was too slow. I even tried to
 the size of the temporary array in half and performed an in-place merge phase.
 It didn't help that much.
 
-Now that I have these baseline performance numbers, my next post will aim at improving
+Now that I have these baseline performance numbers, my next 
+[post](http://thaibui.github.io/posts/improving-java-sorting-algorithms-part-2/) will aim at improving
 them using simple techniques like parallelization.
