@@ -281,3 +281,5 @@ It didn't help that much.
 Now that I have these baseline performance numbers, my next 
 [post](http://thaibui.github.io/posts/improving-java-sorting-algorithms-part-2/) will aim at improving
 them using simple techniques like parallelization.
+
+See [part 2](http://thaibui.github.io/posts/improving-java-sorting-algorithms-part-2/)

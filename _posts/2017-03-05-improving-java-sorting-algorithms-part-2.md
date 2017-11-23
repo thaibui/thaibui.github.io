@@ -236,6 +236,8 @@ function draw_chart(_class, data) {
 }
 </script>
 
+See [part 1](http://thaibui.github.io/posts/improving-java-sorting-algorithms-part-1/)
+
 # Parallelism != linear sort improvement
 
 Mergesort is an easy algorithm to be parallelized. However, any parallelable tasks will need at least 
@@ -279,4 +281,4 @@ mine to be slower since I don't have enough time and expertise to tune the algor
 dataset and machine configurations. However, even if the current algorithm is slower, I still can
 parallel the sort task across machines to beat Java 8 version.
 
-So stay tune and until next time.
+See [part 1](http://thaibui.github.io/posts/improving-java-sorting-algorithms-part-1/)
