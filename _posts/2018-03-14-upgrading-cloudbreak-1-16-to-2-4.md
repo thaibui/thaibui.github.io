@@ -7,7 +7,7 @@ excerpt:
 tags: [devops, bigdata]
 image:
 feature:
-date: 2017-03-14T17:53:00-06:00
+date: 2018-03-14T17:53:00-06:00
 ---
 
 I needed to upgrade Hortonworks Cloudbreak at work from 1.16 to 2.4.0 and here's how.
