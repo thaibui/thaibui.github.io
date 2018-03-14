@@ -10,8 +10,7 @@ feature:
 date: 2017-03-14T17:53:00-06:00
 ---
 
-Hello and welcome to a boring but practical blog post. I needed to upgrade
-Hortonworks Cloudbreak at work from 1.16 to 2.4.0 and here's how.
+I needed to upgrade Hortonworks Cloudbreak at work from 1.16 to 2.4.0 and here's how.
 
 ## Prep work
 
